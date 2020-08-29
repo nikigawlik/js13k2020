@@ -1,0 +1,1 @@
+export let mod = (a, b) => (a%b + b) % b

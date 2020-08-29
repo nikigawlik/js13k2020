@@ -1,0 +1,15 @@
+{
+  "name": "js13k2020",
+  "version": "1.0.0",
+  "description": "Entry for js13 2020, space shooting game thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nils Gawlik",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "webpack-stream": "^5.2.1"
+  }
+}
